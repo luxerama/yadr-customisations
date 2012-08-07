@@ -4,5 +4,5 @@
 
 
 # set your theme.
-export ZSH_THEME="robbyrussell"
+export ZSH_THEME="nicoulaj"
 
